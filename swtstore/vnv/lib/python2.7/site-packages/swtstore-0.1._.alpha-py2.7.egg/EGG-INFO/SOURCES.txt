@@ -1,0 +1,10 @@
+setup.py
+swtstore/__init__.py
+swtstore/application.py
+swtstore/sample_config.py
+swtstore.egg-info/PKG-INFO
+swtstore.egg-info/SOURCES.txt
+swtstore.egg-info/dependency_links.txt
+swtstore.egg-info/not-zip-safe
+swtstore.egg-info/requires.txt
+swtstore.egg-info/top_level.txt

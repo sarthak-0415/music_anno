@@ -1,0 +1,24 @@
+Metadata-Version: 1.1
+Name: swtstore
+Version: 0.1.-.alpha
+Summary: Server-side store for decentralized, semantic, social, web                tweets
+Home-page: https://github.com/janastu/swtstore
+Author: swtstore authors
+Author-email: anon@servelots.com
+License: BSD
+Description: 
+            setup.py
+            ~~~~~~~~
+        
+            :copyright: (c) 2014, swtstore authors. see AUTHORS file for more details.
+            :license: BSD License, see LICENSE for more details.
+        
+Platform: any
+Classifier: Development Status :: 1 - Alpha
+Classifier: Environment :: Web Environment
+Classifier: Intended Audience :: Developers
+Classifier: License :: OSI Approved :: BSD License
+Classifier: Operating System :: OS Independent
+Classifier: Programming Language :: Python
+Classifier: Topic :: Internet
+Classifier: Topic :: Internet :: WWW/HTTP :: Social :: Semantic :: Decentralized
